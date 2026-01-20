@@ -1,0 +1,26 @@
+country,ticker,company_name,correlation_to_index,category,avg_return_30d,volatility_30d,data_points
+BRA,BBDC4.SA,Bradesco,0.033,High-Momentum Play,-0.47,1.76,1213
+BRA,B3SA3.SA,B3,0.03,High-Momentum Play,0.02,1.98,1213
+BRA,ABEV3.SA,Ambev,0.029,High-Momentum Play,-0.03,2.14,1213
+BRA,ITUB4.SA,Itaú Unibanco,0.028,High-Momentum Play,-0.36,1.47,1213
+BRA,WEGE3.SA,WEG,0.028,High-Momentum Play,-0.15,1.47,1213
+BRA,GGBR4.SA,Gerdau,0.028,High-Momentum Play,-0.21,1.59,1213
+BRA,RENT3.SA,Localiza,0.026,High-Momentum Play,-1.05,3.36,1213
+BRA,EMBR3.SA,Embraer,0.021,High-Momentum Play,0.14,1.98,1213
+BRA,PETR4.SA,Petrobras,-0.024,Resilient Defender,0.2,1.36,1213
+IND,INFY.NS,Infosys,-0.021,Resilient Defender,0.08,1.41,1205
+IND,AXISBANK.NS,Axis Bank,-0.022,Resilient Defender,-0.2,1.08,1205
+IND,ASIANPAINT.NS,Asian Paints,-0.025,Resilient Defender,-0.24,1.04,1205
+IND,WIPRO.NS,Wipro,-0.027,Resilient Defender,0.23,1.33,1205
+IND,SBIN.NS,State Bank of India,-0.028,Resilient Defender,-0.07,1.57,1205
+IND,ITC.NS,ITC Limited,-0.035,Resilient Defender,0.04,1.14,1205
+IND,ICICIBANK.NS,ICICI Bank,-0.038,Resilient Defender,0.11,0.93,1205
+IND,HDFCBANK.NS,HDFC Bank,-0.041,Resilient Defender,0.19,1.04,1205
+IND,KOTAKBANK.NS,Kotak Mahindra Bank,-0.056,Resilient Defender,0.11,0.88,1205
+IND,LT.NS,Larsen & Toubro,-0.07,Resilient Defender,0.04,1.48,1205
+ZAF,SHP.JO,Shoprite,0.052,High-Momentum Play,-0.12,1.26,1218
+ZAF,NED.JO,Nedbank,-0.022,Resilient Defender,-0.1,1.47,1218
+ZAF,AGL.JO,Anglo American,-0.022,Resilient Defender,0.2,1.75,1218
+ZAF,SBK.JO,Standard Bank,-0.036,Resilient Defender,-0.29,1.01,1218
+ZAF,FSR.JO,FirstRand,-0.042,Resilient Defender,0.01,1.26,1218
+ZAF,SOL.JO,Sasol,-0.042,Resilient Defender,-0.54,2.24,1218
