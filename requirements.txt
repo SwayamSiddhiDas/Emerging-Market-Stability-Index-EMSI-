@@ -1,0 +1,11 @@
+pandas
+polars
+google-cloud-bigquery
+wbdata
+yfinance
+huggingface_hub
+transformers
+scikit-learn
+lightgbm
+streamlit
+docker
