@@ -2,7 +2,7 @@
 
 A PCA-based composite index and Streamlit dashboard for monitoring macro–market stability across selected emerging markets.
 
-**Live App:** <PASTE_STREAMLIT_LINK_HERE>
+**Live App:** [https://emerging-market-stability-index-emsi.streamlit.app/](https://emerging-market-stability-index-emsi.streamlit.app/)
 
 ---
 
